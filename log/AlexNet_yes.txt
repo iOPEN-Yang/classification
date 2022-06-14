@@ -1,0 +1,36 @@
+[epoch 1]: train_loss=1.423 val_acc=0.556 best_acc=0.556
+[epoch 2]: train_loss=1.195 val_acc=0.589 best_acc=0.589
+[epoch 3]: train_loss=1.123 val_acc=0.626 best_acc=0.626
+[epoch 4]: train_loss=1.063 val_acc=0.631 best_acc=0.631
+[epoch 5]: train_loss=1.024 val_acc=0.641 best_acc=0.641
+[epoch 6]: train_loss=0.966 val_acc=0.654 best_acc=0.654
+[epoch 7]: train_loss=0.924 val_acc=0.640 best_acc=0.654
+[epoch 8]: train_loss=0.896 val_acc=0.645 best_acc=0.654
+[epoch 9]: train_loss=0.874 val_acc=0.658 best_acc=0.658
+[epoch 10]: train_loss=0.841 val_acc=0.642 best_acc=0.658
+[epoch 11]: train_loss=0.805 val_acc=0.662 best_acc=0.662
+[epoch 12]: train_loss=0.795 val_acc=0.669 best_acc=0.669
+[epoch 13]: train_loss=0.768 val_acc=0.647 best_acc=0.669
+[epoch 14]: train_loss=0.743 val_acc=0.641 best_acc=0.669
+[epoch 15]: train_loss=0.742 val_acc=0.644 best_acc=0.669
+[epoch 16]: train_loss=0.739 val_acc=0.646 best_acc=0.669
+[epoch 17]: train_loss=0.685 val_acc=0.637 best_acc=0.669
+[epoch 18]: train_loss=0.702 val_acc=0.650 best_acc=0.669
+[epoch 19]: train_loss=0.668 val_acc=0.666 best_acc=0.669
+[epoch 20]: train_loss=0.651 val_acc=0.658 best_acc=0.669
+[epoch 21]: train_loss=0.643 val_acc=0.655 best_acc=0.669
+[epoch 22]: train_loss=0.623 val_acc=0.650 best_acc=0.669
+[epoch 23]: train_loss=0.642 val_acc=0.649 best_acc=0.669
+[epoch 24]: train_loss=0.607 val_acc=0.654 best_acc=0.669
+[epoch 25]: train_loss=0.600 val_acc=0.663 best_acc=0.669
+[epoch 26]: train_loss=0.605 val_acc=0.650 best_acc=0.669
+[epoch 27]: train_loss=0.589 val_acc=0.657 best_acc=0.669
+[epoch 28]: train_loss=0.554 val_acc=0.611 best_acc=0.669
+[epoch 29]: train_loss=0.574 val_acc=0.637 best_acc=0.669
+[epoch 30]: train_loss=0.565 val_acc=0.640 best_acc=0.669
+
+
+test_acc = 0.641
+precision = 0.675
+recall = 0.632
+f1_score = 0.642
