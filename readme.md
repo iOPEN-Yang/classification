@@ -39,3 +39,18 @@
 | MobileNetV2 |            |  0.534   |   0.495   |   0.518   |   0.491   |   0.5    |
 | MobileNetV3 |     √      |  0.711   |   0.667   |   0.68    |   0.658   |  0.664   |
 | MobileNetV3 |            |  0.504   |   0.474   |   0.482   |   0.464   |  0.468   |
+## Downloading
+
++ Code
+
+  + Clone this repository in the directory (```Root/classification```):
+
+	```bash
+	git clone https://github.com/iOPEN-Yang/classification.git
+	```
+
+
+
++ Pretrained and Fine-tuned pth-file downloading (Scan through **WeChat**)
+
+![image-20220615151933929](image/image-20220615151933929.png)
